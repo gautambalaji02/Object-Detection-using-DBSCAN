@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 15 12:00:37 2023
 
-@author: GBALP935
+@author: Gautam Balaji
 url: https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html#ga7be549266bad7b2e6a04db49827f9f32
 """
 # Import libraries
