@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 22 10:12:32 2023
 
-@author: GBALP935
+@author: Gautam Balaji
 """
 # Libraries
 # Custom
